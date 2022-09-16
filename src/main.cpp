@@ -1,4 +1,7 @@
 #include <Arduino.h>
+/*
+  I, Michael Mena, student number 000817498, certify that this is my original work and no other persons work has been taken without credit
+*/
 
 void setup() {
   // put your setup code here, to run once:
